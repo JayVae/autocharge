@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fac0dbed-10d9-4531-b1c6-a14f086148d2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/autocharge.py" afterPath="$PROJECT_DIR$/autocharge.py" />
-      <change beforePath="$PROJECT_DIR$/charge.log" afterPath="$PROJECT_DIR$/charge.log" />
-      <change beforePath="$PROJECT_DIR$/numpadimgbreak_final.py" afterPath="$PROJECT_DIR$/numpadimgbreak_final.py" />
-      <change beforePath="$PROJECT_DIR$/vcodeprocess_final.py" afterPath="$PROJECT_DIR$/vcodeprocess_final.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +20,8 @@
       <file leaf-file-name="vcodeprocess_final.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vcodeprocess_final.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="186" column="26" lean-forward="false" selection-start-line="186" selection-start-column="26" selection-end-line="186" selection-end-column="26" />
+            <state relative-caret-position="191">
+              <caret line="204" column="8" lean-forward="false" selection-start-line="204" selection-start-column="8" selection-end-line="204" selection-end-column="8" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -35,8 +32,8 @@
       <file leaf-file-name="autocharge.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/autocharge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3500">
-              <caret line="155" column="34" lean-forward="true" selection-start-line="155" selection-start-column="12" selection-end-line="155" selection-end-column="34" />
+            <state relative-caret-position="178">
+              <caret line="152" column="57" lean-forward="false" selection-start-line="152" selection-start-column="36" selection-end-line="152" selection-end-column="57" />
               <folding>
                 <element signature="e#15#37#0" expanded="true" />
               </folding>
@@ -96,6 +93,7 @@
     <findStrings>
       <find>sendmessage</find>
       <find>myemail</find>
+      <find>transform_account_url</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -105,8 +103,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/vcodeprocess_final.py" />
-        <option value="$PROJECT_DIR$/autocharge.py" />
         <option value="$PROJECT_DIR$/myemail.py" />
+        <option value="$PROJECT_DIR$/autocharge.py" />
       </list>
     </option>
   </component>
@@ -331,16 +329,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vcodeprocess_final.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="186" column="26" lean-forward="false" selection-start-line="186" selection-start-column="26" selection-end-line="186" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myemail.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -351,10 +339,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/develop/Anaconda/envs/python35/Lib/site-packages/requests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vcodeprocess_final.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="204" column="8" lean-forward="false" selection-start-line="204" selection-start-column="8" selection-end-line="204" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/autocharge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3500">
-          <caret line="155" column="34" lean-forward="true" selection-start-line="155" selection-start-column="12" selection-end-line="155" selection-end-column="34" />
+        <state relative-caret-position="178">
+          <caret line="152" column="57" lean-forward="false" selection-start-line="152" selection-start-column="36" selection-end-line="152" selection-end-column="57" />
           <folding>
             <element signature="e#15#37#0" expanded="true" />
           </folding>

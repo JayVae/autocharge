@@ -12,6 +12,7 @@ import sys
 import traceback
 from myemail import myemail
 
+
 vcode_url = 'http://card.xjtu.edu.cn/Account/GetCheckCodeImg/Flag=' + str(int(time.time() * 100))
 transform_account_url = 'http://card.xjtu.edu.cn/CardManage/CardInfo/TransferAccount'
 num_pad_image_url = 'http://card.xjtu.edu.cn/Account/GetNumKeyPadImg'
